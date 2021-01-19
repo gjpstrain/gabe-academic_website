@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Welcome to my academic website
+subtitle: My name is Gabriel Strain and I am currently a Psychology MRes student, having graduated last year from my undergraduate degree in psychology from the University of Manchester 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Gabriel Strain, Psychologist, Student, Researcher
 
 # Link this post with a project
 projects: []
@@ -30,15 +30,13 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
+- General
 
 categories:
-- Demo
-- 教程
+- General
 ---
 
 ## Overview
