@@ -14,7 +14,7 @@ organizations:
   url: https://www.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistics and data science, mental health, and perception.
+bio: My research interests include statistics and data science, health psychology, and perception.
 
 # Interests to show in About widget
 interests:
@@ -66,4 +66,4 @@ highlight_name: false
 
 I am a current MRes Psychology Student at the University of Manchester, with a view to pursuing academic research as a career. My research interests include data science and visualisation, statistics, and perception. My undergraduate dissertation investigated whether slanted titles could affect student's perceptions of correlation strength in scatterplots. My current research focuses on ascertaining how people extract meaning from data visualisations.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

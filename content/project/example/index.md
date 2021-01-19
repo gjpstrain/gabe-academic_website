@@ -1,16 +1,16 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: An Investigation Into How Misaligned Titles Can Affect the Perception of Correlation Strength in Scatterplots
+summary: My undergraduate dissertation I completed in 2020 at the University of Manchester, under the supervision of Dr. Andrew Stewart.
 tags:
-- Deep Learning
+- Data Visualisation
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  focal_point: Sart
 
 links:
 - icon: twitter
