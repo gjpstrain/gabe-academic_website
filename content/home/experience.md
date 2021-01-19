@@ -26,7 +26,7 @@ experience:
     company: University of Manchester
     company_url: ''
     location: Manchester
-    date_start: 'September 2020'
+    date_start: '2020-09-01'
     date_end: ''
     description: |2-
         Modules studied include:
@@ -38,8 +38,8 @@ experience:
     company: University of Manchester
     company_url: ''
     location: Manchester
-    date_start: '2017'
-    date_end: '2020'
+    date_start: '2017-09-11'
+    date_end: '2020-06-01'
     description: |2-
         Modules studied include:
         
