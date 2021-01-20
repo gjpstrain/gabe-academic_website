@@ -47,7 +47,7 @@ I started learning R a few months ago as part of an advanced statistics course, 
 
 ## My Research Interests
 
-My research interests primarily hover around data science and investigating how people extract meaning from data, but I am also interested more generally evolutionary psychology, clinical and health psychology, and teaching.
+My research interests primarily hover around data science and investigating how people extract meaning from data, but I am also interested more generally in evolutionary psychology, clinical and health psychology, and teaching.
 
 ## License
 
