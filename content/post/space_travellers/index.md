@@ -9,7 +9,7 @@ summary: Gabriel Strain, Psychologist, Student, Researcher
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-05-14T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'I took this photo of my university halls when I began my journey here 5 years ago'
+  caption: 'The data visualisation I produced in Rstudio'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -32,22 +32,18 @@ authors:
 - admin
 
 tags:
-- Academic
+- Rstudio
 - General
+- DataViz
+- tidyverse
 
 categories:
-- General
+- Data Visualisations
 ---
 
-## About Me
+## Some details
 
-I am 23 years old and have studied at the University of Manchester for the past five years. In 2015 I began a medicine degree and completed the first two years before realising that I just couldn't see myself as a medical doctor in the future; this coupled with a challenging couple of years personally led me to internally transfer to a BSc Psychology degree. I loved every minute of my psychology degree, especially the excitement of maybe one day being able to do my own research and contribute to our collective knowledge. It was with this in mind then that I went straight onto my current course, an MRes in Psychology. I have experience in qualitative and quantiative research, and my current thesis will investigate how changing certains aspects of risk communication graphs can change people's perceptions of risk strength.
-
-I started learning R a few months ago as part of an advanced statistics course, so hopefully there will soon be some data visualisations on here as part of #TidyTuesday. This website was built using Visual Studio Code, and is hosted by Netlify. I am hoping to start getting my head round Python soon as well.
-
-## My Research Interests
-
-My research interests primarily hover around data science and investigating how people extract meaning from data, but I am also interested more generally in evolutionary psychology, clinical and health psychology, and teaching.
+This plot was produced using Rstudio, with the `ggimage`, `ggplot2`, `ggtext`, `magick`, and `tidyverse` packages. Figuring out how to create the flag bar and set the background was a real challenge, but it taught me a lot about working within the tidyverse and the more finicky details of `dplyr`.
 
 ## License
 
