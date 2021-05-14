@@ -1,6 +1,6 @@
 ---
 title: Gender Equality in Space
-subtitle: I completed a Hackathon as part of a recent university assignment. I chose to work with the TidyTuesday astronauts [dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-14/astronauts.csv) 
+subtitle: I completed a Hackathon as part of a recent university assignment. I chose to work with the TidyTuesday astronauts [dataset](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-07-14/astronauts.csv). This is a huge dataset with loads of interesting variables - I also did some modeling, which revealed no effect of gender on either total mission time nor total EVA time, which is a big win for gender equality in the final frontier! 
 
 # Summary for listings and search engines
 summary: Gabriel Strain, Psychologist, Student, Researcher
