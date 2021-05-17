@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Me celebrating with my brother's lovely new puppy
+  caption: 'Me celebrating with my brother's lovely new puppy'
   focal_point: ""
   placement: 2
   preview_only: false
